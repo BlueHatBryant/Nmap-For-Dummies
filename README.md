@@ -74,7 +74,7 @@ Press the "Submit" button.
 The scan results will be shown in a pop-up window.
 
 ## Known Issues
-Ensure that nmap is installed correctly. If not, an error message will appear, and the scan won't proceed.
+Ensure that Nmap is installed correctly. If not, an error message will appear, and the scan won't proceed.
 This tool currently doesn't support scanning multiple IP addresses or IP ranges.
 
 ## Contribution
